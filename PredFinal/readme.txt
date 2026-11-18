@@ -1,0 +1,2 @@
+Predicción final
+Se hicieron 10 corridas del script 729_final_junior.ipynb con mi semilla primigenia y diferentes combinaciones de los hiperparametros num_leaves, min_data_in_leaf y feature_fraction. Se adjunta archivo corridas_PredFinal con los hiperparametros y resultados de cada corrida, y el script de la corrida 9156 con que se obtuvo la mayor ganancia.
